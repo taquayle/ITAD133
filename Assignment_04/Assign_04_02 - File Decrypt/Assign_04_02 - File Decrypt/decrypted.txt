@@ -1,0 +1,4 @@
+This is the input file for which the 'encryption' program
+will be working from
+making random end of line for testing, might as well throw in the symbols
+on keys 1 - 0. !@#$%^&*()

@@ -1,0 +1,14 @@
+﻿Build started 6/24/2014 10:10:03 PM.
+     1>Project "F:\ITAD_133\Extra_Credit\Extra_Credit_02\Extra_Credit_02_02 - 2D Point and 3D Point\Extra_Credit_02_02 - 2D Point and 3D Point\Extra_Credit_02_02 - 2D Point and 3D Point.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Extra_Credit_02_02 - 2D Point and 3D Point.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Extra_Credit_02_02 - 2D Point and 3D Point.cpp"
+         Extra_Credit_02_02 - 2D Point and 3D Point.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\ITAD_133\Extra_Credit\Extra_Credit_02\Extra_Credit_02_02 - 2D Point and 3D Point\Debug\Extra_Credit_02_02 - 2D Point and 3D Point.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\ITAD_133\Extra_Credit\Extra_Credit_02\Extra_Credit_02_02 - 2D Point and 3D Point\Debug\Extra_Credit_02_02 - 2D Point and 3D Point.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\ITAD_133\Extra_Credit\Extra_Credit_02\Extra_Credit_02_02 - 2D Point and 3D Point\Debug\Extra_Credit_02_02 - 2D Point and 3D Point.lib" /MACHINE:X86 "Debug\Extra_Credit_02_02 - 2D Point and 3D Point.obj"
+         Debug\stdafx.obj
+         Extra_Credit_02_02 - 2D Point and 3D Point.vcxproj -> F:\ITAD_133\Extra_Credit\Extra_Credit_02\Extra_Credit_02_02 - 2D Point and 3D Point\Debug\Extra_Credit_02_02 - 2D Point and 3D Point.exe
+     1>Done Building Project "F:\ITAD_133\Extra_Credit\Extra_Credit_02\Extra_Credit_02_02 - 2D Point and 3D Point\Extra_Credit_02_02 - 2D Point and 3D Point\Extra_Credit_02_02 - 2D Point and 3D Point.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.92

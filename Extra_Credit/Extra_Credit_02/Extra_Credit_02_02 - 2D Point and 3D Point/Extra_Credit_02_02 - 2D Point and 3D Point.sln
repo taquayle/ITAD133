@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Extra_Credit_02_02 - 2D Point and 3D Point", "Extra_Credit_02_02 - 2D Point and 3D Point\Extra_Credit_02_02 - 2D Point and 3D Point.vcxproj", "{CC65B13F-DEC1-4B8B-96DE-683FA4C3A8C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC65B13F-DEC1-4B8B-96DE-683FA4C3A8C1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CC65B13F-DEC1-4B8B-96DE-683FA4C3A8C1}.Debug|Win32.Build.0 = Debug|Win32
+		{CC65B13F-DEC1-4B8B-96DE-683FA4C3A8C1}.Release|Win32.ActiveCfg = Release|Win32
+		{CC65B13F-DEC1-4B8B-96DE-683FA4C3A8C1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

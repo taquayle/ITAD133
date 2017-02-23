@@ -1,0 +1,15 @@
+﻿Build started 6/2/2014 12:54:20 AM.
+     1>Project "F:\ITAD_133\Assignment_06\Assignment_06_03 - IntArray Class with Exceptions\Assignment_06_03 - IntArray Class with Exceptions\Assignment_06_03 - IntArray Class with Exceptions.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Assignment_06_03 - IntArray Class with Exceptions.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Assignment_06_03 - IntArray Class with Exceptions.cpp"
+         Assignment_06_03 - IntArray Class with Exceptions.cpp
+     1>f:\itad_133\assignment_06\assignment_06_03 - intarray class with exceptions\assignment_06_03 - intarray class with exceptions\assignment_06_03 - intarray class with exceptions.cpp(128): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\ITAD_133\Assignment_06\Assignment_06_03 - IntArray Class with Exceptions\Debug\Assignment_06_03 - IntArray Class with Exceptions.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\ITAD_133\Assignment_06\Assignment_06_03 - IntArray Class with Exceptions\Debug\Assignment_06_03 - IntArray Class with Exceptions.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\ITAD_133\Assignment_06\Assignment_06_03 - IntArray Class with Exceptions\Debug\Assignment_06_03 - IntArray Class with Exceptions.lib" /MACHINE:X86 "Debug\Assignment_06_03 - IntArray Class with Exceptions.obj"
+         Debug\stdafx.obj
+         Assignment_06_03 - IntArray Class with Exceptions.vcxproj -> F:\ITAD_133\Assignment_06\Assignment_06_03 - IntArray Class with Exceptions\Debug\Assignment_06_03 - IntArray Class with Exceptions.exe
+     1>Done Building Project "F:\ITAD_133\Assignment_06\Assignment_06_03 - IntArray Class with Exceptions\Assignment_06_03 - IntArray Class with Exceptions\Assignment_06_03 - IntArray Class with Exceptions.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.14
